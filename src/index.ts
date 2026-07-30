@@ -10,4 +10,3 @@ console.log(user.email);
 // testing
 hello
 
-heeyeye
