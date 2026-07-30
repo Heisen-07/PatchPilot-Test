@@ -7,3 +7,4 @@ const user: User = {
 };
 
 console.log(user.email);
+// testing
